@@ -16,7 +16,7 @@ SZU Assistant.user.js为脚本文件,Tampermonkey为油猴，如果你不会安�
 
 6.公文通列表只看各个学院的公文选项
 
-7.平时分成绩查询（此脚本原作者为Liunian06，感谢佬提供宝贵思路。原仓库链接为：https://github.com/Liunian06/GradeInquiry4SZU）
+7.平时分成绩查询（此脚本原作者为Liunian06，感谢佬提供宝贵思路。原仓库链接为：https://github.com/Liunian06/GradeInquiry4SZU ）
 
 
 此脚本脱胎于Convenient SZU，原脚本作者是cc，非常感谢大佬提供的思路帮助
